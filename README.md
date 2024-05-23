@@ -6,10 +6,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrejuk&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 ### 📖 Currently learning...
 - GO LANG
-- SQS
+- C#
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alexandrejuk&no-frame=true&no-bg=false&margin-w=4)
