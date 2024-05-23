@@ -11,6 +11,9 @@
 - GO LANG
 - SQS
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alexandrejuk&no-frame=true&no-bg=false&margin-w=4)
+
 ### 🛰️ Where to find me
 
 <p>
